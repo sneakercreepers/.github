@@ -1,6 +1,8 @@
 # SneakerCreepers
 
-Open-source security tooling that works with **whatever model you have**, small or large, local or in the cloud, and is **honest about what it did not check**.
+We build **open-source tools for AI models**: tools that work with **whatever model you have**, small or large, local or in the cloud, keep your data under your control and are **honest about what they did not check**.
+
+Today there is one project, **creep**. More tools for models will follow.
 
 ## creep
 
@@ -20,7 +22,7 @@ creep doctor && creep estimate && creep scan && creep why <id>
 
 | | |
 |---|---|
-| Status | [`v0.1.0-rc.1`](https://github.com/sneakercreepers/creep/releases/tag/v0.1.0-rc.1) pre-release; v0.2 (sandbox-verified findings, GitHub Action, `--diff`) in progress |
+| Status | [`v0.1.0`](https://github.com/sneakercreepers/creep/releases/tag/v0.1.0) released; v0.2 (sandbox-verified findings, GitHub Action, `--diff`) in progress |
 | Roadmap | [Project board](https://github.com/orgs/sneakercreepers/projects/1) · [v0.2 milestone](https://github.com/sneakercreepers/creep/milestone/2) |
 | Docs | [Architecture](https://github.com/sneakercreepers/creep/blob/main/docs/architecture.md) · [Threat model](https://github.com/sneakercreepers/creep/blob/main/docs/threat-model.md) · [Wiki](https://github.com/sneakercreepers/creep/wiki) |
 | License | Apache-2.0 |
